@@ -8,10 +8,10 @@ class Container(FloatLayout):
     pass
 
 
-class MyApp(App):  
+class CringeApp(App):  
     def build(self):  
         return Container()
     
 
 if __name__ == '__main__': 
-    MyApp().run()
+    CringeApp().run()
